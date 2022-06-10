@@ -49,7 +49,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python             2 hrs 44 mins   ███████████████▓░░░░░░░░░   62.89 %
+Markdown           37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
+YAML               21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+HTML               18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+Docker             12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Bash               6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
