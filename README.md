@@ -1,7 +1,7 @@
 # Hi Im KomeilParseh!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mmdbalkhi/mmdbalkhi/metrics/metrics.svg" alt="GitHub Metrics"/>
+  <img src="https://raw.githubusercontent.com/mmdbalkhi/mmdbalkhi/main/github-metrics.svg" alt="GitHub Metrics"/>
 </p>
 
 
