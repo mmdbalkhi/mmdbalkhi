@@ -1,5 +1,9 @@
 # Hi Im KomeilParseh!
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mmdbalkhi/mmdbalkhi/metrics/metrics.svg" alt="GitHub Metrics"/>
+</p>
+
 
 ### My favourite languages:
 
@@ -39,22 +43,6 @@
  [<img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="50px" />][ts]
  
 </p>
-
-<p algin="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mmdbalkhi&show_icons=true&theme=dracula&count_private=true">
-  </a>
-</p>
- 
-<!--START_SECTION:waka-->
-
-```text
-Other              2 hrs 8 mins    █████████░░░░░░░░░░░░░░░░   36.37 %
-```
-
-<!--END_SECTION:waka-->
-
-
 
 [rust]: https://rust-lang.org
 [ts]: https://www.typescriptlang.org/
